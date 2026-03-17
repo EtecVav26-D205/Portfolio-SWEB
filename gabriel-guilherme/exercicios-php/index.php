@@ -1,3 +1,11 @@
+<!--
+Data: 10/03/2026
+Autor: Gabriel Salerno Ambrosio/ Guilherme Moreira Zanato
+Objetivo: Domínio da linguagem PHP
+
+Exercício 1 - Intervalo entre 100 e 200
+Faça um programa que receba um número e diga se este número está no intervalo entre 100 e 200.
+-->
 
 <!DOCTYPE html>
 <html lang="pt-br">
