@@ -1,6 +1,6 @@
 <!--
 Data: 23/03/2026
-Autor: Gabriel Salerno Ambrosio/ Guilherme Moreira Zanato
+Autor: Gabriel Salerno Ambrosio/ Guilherme Moreira Zanato 2D
 Objetivo: Domínio da linguagem PHP
 
 Exercício 4 - Triângulo Númerico
