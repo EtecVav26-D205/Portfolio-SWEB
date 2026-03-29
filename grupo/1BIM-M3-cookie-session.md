@@ -31,7 +31,7 @@ if(isset($_COOKIE["contador"])) {
 
 ?>
 ```
-**Resposta:**
+### **Resposta:**
 Após a primeira execução do apareceu a mensagem "Cookie ainda não disponível", isso deve pois o cookie foi cirado naquele momento, mas ainda não foi enviado para o navegador de volta.
 Logo depois de atualizar a página, foi mostrado na tela "Valor do cookie: 1", isso porque nesse momento o navegador já recebeu o cookie criado.
 Ao abrir as ferrmanetas de cookie, no contador de cookie é mostrado o valor 1.
