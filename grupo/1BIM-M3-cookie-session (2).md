@@ -38,7 +38,6 @@ if(isset($_COOKIE["contador"])) {
 
 ---
 
-```
 
 ## 📌 Exercício 4 — Pergunta de reflexão
 
@@ -46,6 +45,6 @@ if(isset($_COOKIE["contador"])) {
 
 ###**Resposta:** <br> As sessions são preferidas para autenticação porque armazenam os dados no servidor, tornando o processo mais seguro do que cookies, que ficam no navegador e podem ser manipulados. Com sessions, o usuário recebe apenas um identificador, enquanto as informações sensíveis ficam protegidas. Além disso, o controle é maior, pois o servidor pode encerrar a sessão a qualquer momento. Já os cookies podem ser alterados ou interceptados, oferecendo riscos se usados para dados importantes. Por isso, sessions são mais seguras e confiáveis para login de usuários.
 
----
+
 
 
